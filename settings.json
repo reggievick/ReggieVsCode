@@ -1,0 +1,39 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "workbench.colorCustomizations": {
+        "[Monokai Pro]": {
+            "editor.background": "#0c0c0c",
+            "sideBar.background": "#1B1B1D",
+            "sideBarSectionHeader.background": "#1B1B1D",
+            "statusBar.background": "#1B1B1D",
+            "statusBar.foreground": "#21CE99",
+            "statusBar.noFolderBackground": "#212121",
+            "statusBar.debuggingBackground": "#263238",
+            "tab.activeBackground": "#1B1B1D",
+            "tab.unfocusedInactiveForeground": "#d1d1d8",
+            "tab.inactiveForeground": "#d1d1d8",
+            "tab.activeBorder": "#21CE99",
+            "tab.inactiveBackground": "#1B1B1D",
+            "tab.activeForeground": "#d1d1d8",
+            "editorGroupHeader.tabsBackground": "#1B1B1D",
+            "titleBar.activeBackground": "#1B1B1D",
+            "titleBar.activeForeground": "#259472",
+            "editorLineNumber.foreground": "#4e4e53",
+            "editorLineNumber.activeForeground": "#259472",
+            "editorGutter.background": "#0c0c0c"
+        },
+
+    },
+    "files.autoSave": "afterDelay",
+    "python.venvPath": "~/.virtualenvs",
+    "python.autoComplete.extraPaths": [
+        ".../backend/venv"
+    ],
+    "python.analysis.extraPaths": [
+        ".../backend/venv"
+    ]
+}
